@@ -28,10 +28,6 @@
   "bugs": "https://github.com/Bttstrp/bootstrap-switch/issues",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "engines": {
-    "node": "^14.15",
-    "yarn": "^1.22"
-  },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
